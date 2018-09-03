@@ -7,6 +7,7 @@ namespace LitPushToGit
 {
     public class Class1
     {
+
         public void aingNgitung(int a, int b, int c)
         {
             c = a * b;
