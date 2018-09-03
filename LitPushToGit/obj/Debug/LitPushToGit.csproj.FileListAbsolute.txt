@@ -1,0 +1,6 @@
+C:\Users\Unikom\source\repos\LitPushToGit\LitPushToGit\bin\Debug\LitPushToGit.dll
+C:\Users\Unikom\source\repos\LitPushToGit\LitPushToGit\bin\Debug\LitPushToGit.pdb
+C:\Users\Unikom\source\repos\LitPushToGit\LitPushToGit\obj\Debug\LitPushToGit.csprojAssemblyReference.cache
+C:\Users\Unikom\source\repos\LitPushToGit\LitPushToGit\obj\Debug\LitPushToGit.csproj.CoreCompileInputs.cache
+C:\Users\Unikom\source\repos\LitPushToGit\LitPushToGit\obj\Debug\LitPushToGit.dll
+C:\Users\Unikom\source\repos\LitPushToGit\LitPushToGit\obj\Debug\LitPushToGit.pdb
